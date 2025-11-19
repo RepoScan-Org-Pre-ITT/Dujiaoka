@@ -9,7 +9,7 @@
 
 ## 独角数卡dfd
 
-开源式站长自动化售货解决方案、高效、稳定、快速！dfesdc
+开源式站长自动化售货解决方案、高效、稳定、快速！dfesdccc
 
 - 框架来自：[laravel/framework](https://github.com/laravel/laravel).
 - 后台管理系统：[laravel-admin](https://laravel-admin.org/).
